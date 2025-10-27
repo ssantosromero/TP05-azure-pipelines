@@ -67,9 +67,11 @@ El pipeline usa el self-hosted agent (pool: Default) y ejecuta las etapas secuen
 
  
 ## 4. Evidencias 
-- Capturas de los tres stages completados correctamente en Azure DevOps.   
-- Logs en la terminal confirmando ejecución exitosa.   
-- QA y PROD listos con sus respectivas variables. 
+- Capturas de los tres stages completados correctamente en Azure DevOps.
+  <img width="1501" height="727" alt="image" src="https://github.com/user-attachments/assets/49fa15da-680f-4d04-96cc-0129c2824f9d" />
+- Logs en la terminal confirmando ejecución exitosa.
+  <img width="851" height="345" alt="image" src="https://github.com/user-attachments/assets/6be15090-191d-4e7b-ab1a-257eb41b0d84" />
+
  
 
  
